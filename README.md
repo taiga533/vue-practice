@@ -1,26 +1,35 @@
 # vue-practice
 
-## Project setup
+コマンドの実行は`Git Bash` or `コマンドプロンプト`を用いて行う。  
+このリポジトリのディレクトリ上で実行しないとうまく動作しない。
+
+## プロジェクトの開発環境構築
+1. Node.jsをインストール（[ダウンロードリンク](https://nodejs.org/ja/)）
+1. 下記コマンドを実行
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### 開発のためのコンパイルとホットリロードの実行
+1. 下記コマンドを実行
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### 本番環境用の設定を利用したコンパイル
+1. 下記コマンドを実行
 ```
 npm run build
 ```
 
-### Run your tests
+### テストコードを実行
+1. 下記コマンドを実行
 ```
 npm run test
 ```
 
-### Lints and fixes files
+### jsファイルのLintと書き方がイケてない部分の自動修正
+1. 下記コマンドを実行
 ```
 npm run lint
 ```
