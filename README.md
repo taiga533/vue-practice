@@ -1,6 +1,10 @@
 # vue-practice
 
 コマンドの実行は`Git Bash` or `コマンドプロンプト`を用いて行う。  
+1. windowsボタンを押して`Git Bash`と入力
+1. GitBashを実行
+1. 下記コマンドを任意のフォルダで実行
+1. 
 
 ## プロジェクトの開発環境構築
 1. Node.jsをインストール（[ダウンロードリンク](https://nodejs.org/ja/)）
@@ -11,7 +15,8 @@
 1. `GitBashで開く`を選択
 1. 下記コマンドを実行
 ```
-npm install
+git clone https://github.com/taiga533/vue-practice.git && cd vue-practice && pwd && echo "↑のフォルダをエクスプ
+ローラーで開いてください"
 ```
 
 ### エディタをインストール
